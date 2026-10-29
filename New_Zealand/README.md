@@ -80,3 +80,41 @@
 - PTE Academic 是否明确接受
 - 学费减免、生活补助/工资金额、期限及发放时间
 - 最后核实日期与官方链接
+
+
+## 新增候选导师池：近期项目经费与潜在扩组线索（2026-10-29）
+
+**使用规则：**下列名单是优先调查/套磁线索，不代表已确认有空缺或提供全奖。项目经费通常受预算类别和聘用规则限制，必须直接询问 PI 是否有适合国际申请人的 funded Research Master's / paid RA / PhD。先确认是否已联系过，避免重复发送。
+
+| 优先级 | 导师 / 机构 | 项目或近期信号 | 与申请者匹配 | 目前证据与风险 | 建议行动 |
+|---|---|---|---|---|---|
+| A1 | **Dr Annette Lasham — University of Auckland** | HRC 2026 Explorer Grant：*Does the system “fit” women with lobular breast cancer? A national study*，NZ$150,000 / 24 months；使用全国筛查和乳腺癌关联数据 | 很高：癌症结局、全国级数据、随访/筛查体系评估 | 项目获资助已确认；无公开证据证明正在招学生。团队还包括 Nicholas Knowlton（此前记录显示联系过同名导师，须核实是不是同一人/同一机构） | 优先写个性化邮件，询问项目数据分析、治疗/随访结局研究和有资助的硕士/RA机会 |
+| A1 | **Dr Chunhuan Lao — University of Waikato** | 2024 HRC Health Delivery Research Career Development Award：多重用药与乳腺癌系统治疗及结局；研究涉及新西兰癌症治疗、存活、健康服务和成本 | 极高：真实患者/癌症数据、治疗模式、结局、生存分析 | 官方项目和相关研究可核实；2024 年两年项目可能已进入后期，不能据此推定尚有新岗位 | 值得联系；询问当前延续项目、2026–2027 新数据分析课题及硕士/RA 资金 |
+| A1 | **Dr Chang Yu — University of Otago, Wellington** | 2026 HRC Explorer Grant：*Economic policy and people’s health in Aotearoa New Zealand*，NZ$149,999 / 24 months；使用 Integrated Data Infrastructure (IDI) 关联行政数据 | 高：真实世界纵向数据、政策与健康结局、定量分析 | 官方个人页确认 Research Fellow、IDI 数据分析和 2026 grant；数据主要是链接行政数据/社会决定因素，不是专门的临床 EHR/癌症队列 | 可联系，重点问健康结局数据分析、研究型硕士/RA 机会；邮件需说明希望向临床 RWE / outcomes 延伸 |
+| A2 | **Dr Victoria Egli — University of Waikato** | 2026 HRC Explorer Grant：*Digital epilepsy pathways: How digital and clinical inputs shape care*，NZ$150,000 / 24 months；结合临床数据、调查、访谈及数字环境 | 高：临床路径、治疗决策、数字健康和真实世界服务改进 | 近期项目经费明确；研究是混合方法和服务路径，不是纯统计/癌症结局；目前无公开招聘证据 | 联系时强调临床背景、数据分析与生存/结局建模可迁移能力，询问项目数据研究岗位 |
+| A2 | **Dr Rachel Purcell — University of Otago, Christchurch** | 2026 HRC 项目 *Tackling early-onset colorectal cancer in Aotearoa*，NZ$1.2m；全国性早发结直肠癌研究，收集健康信息及生物样本 | 高：癌症、患者队列、临床信息和长期结局方向；可连接临床数据与预测研究 | 大型项目经费已确认；她是 Senior Research Fellow，项目包含分子/微生物组工作，未证实有独立学生名额；部分已公布 postgraduate 项目截止日期已过 | 先问项目是否有临床/流行病学数据分析子课题，是否可资助研究型硕士/RA；明确表示偏好 patient outcomes / epidemiology 而非纯湿实验 |
+| A2（AI 支线） | **Dr Jack Scott — University of Otago** | 2026 HRC Explorer Grant：面向 ADHD 的 AI + EEG 认知评估，NZ$150,000 / 24 months；计划适配国际模型至新西兰本地样本 | 中高：医学 AI、模型适配、临床决策；与你已有模型泛化经验相关 | 项目和其 Postdoctoral Fellow 身份可确认；不是 RWE 主线，也不是 LLM；grant 不代表有学生资助 | 可作为少量 AI 支线联系；询问项目数据处理/模型评估及联合指导可能，避免把自己定位成纯算法申请人 |
+| B（临床文本支线） | **Dr Alexander Walker / Dr Snita Ahir-Knight — University of Otago** | 2026 HRC Explorer Grant：*Understanding clinical notes and co-writing from youth in mental health services*，NZ$150,000 / 18 months | 中等：真实临床记录、服务体验、数字临床工作流；可能值得探索临床文本分析 | 项目明确研究临床笔记共同撰写；**没有证据证明该项目使用 LLM/NLP**，核心偏探索性焦点小组和服务研究 | 先读项目细节后再决定；只有导师愿意开展定量/临床文本数据子课题时才优先联系 |
+| B（医学 AI 支线） | **Dr Luyao Xia / Dr Huidong Bai — University of Auckland** | 2026 HRC Explorer Grant：*Physics-constrained AI for marker-less tumour localisation in breast surgery*，NZ$150,000 / 24 months | 中等：肿瘤定位、医学 AI、临床手术场景 | 项目经费已确认；方向仍偏图像/算法，不是 RWE 主线，暂无已确认空缺 | 作为保留支线，不应排在癌症结局和临床流行病学导师之前 |
+
+### 官方证据链接
+
+- Dr Annette Lasham / Nicholas Knowlton — HRC 项目：https://www.auckland.ac.nz/en/news/2026/08/05/explorer-grants-2026-uoa.html
+- Dr Chunhuan Lao — Waikato 乳腺癌治疗和结局项目：https://www.waikato.ac.nz/news-events/news/health-research-council-funds-breast-cancer-and-machine-learning-projects/
+- Dr Chang Yu — 官方个人资料与 2026 HRC grant：https://www.otago.ac.nz/wellington/departments/publichealth/staff/chang-yu
+- Dr Victoria Egli — HRC 数字癫痫路径项目：https://hrc.govt.nz/resources/research-repository/digital-epilepsy-pathways-how-digital-and-clinical-inputs-shape-care
+- Dr Rachel Purcell — 官方项目和研究资料：https://www.otago.ac.nz/news/newsroom/Heart-research-gets-a-boost-with-HRC-funding ; https://www.otago.ac.nz/christchurch/departments/surgery/people/rachel-purcell
+- Dr Jack Scott — HRC AI/EEG 项目：https://www.hrc.govt.nz/news-and-events/new-adhd-research-turns-to-ai-and-brain-waves-provide-more-objective-assessment
+- Dr Alexander Walker / Dr Snita Ahir-Knight — 临床笔记项目：https://hrc.govt.nz/resources/research-repository/understanding-clinical-notes-and-co-writing-youth-mental-health
+- Dr Luyao Xia / Dr Huidong Bai — Auckland 2026 HRC 项目：https://www.auckland.ac.nz/en/news/2026/08/05/explorer-grants-2026-uoa.html
+
+### 第一轮建议顺序
+
+1. Annette Lasham：最新全国乳腺癌数据项目，RWE/癌症结局最直接。
+2. Chunhuan Lao：与你现有生存分析、治疗模式及癌症结局经验高度吻合。
+3. Chang Yu：有新经费、链接行政数据的研究型项目，适合拓宽至广义 RWD。
+4. Victoria Egli：新资助临床路径项目，值得问是否有定量数据子课题。
+5. Rachel Purcell：大型早发结直肠癌项目，需先确认可参与的具体数据分析工作。
+6. Jack Scott：只作为医学 AI/model adaptation 支线。
+
+**发信前必须检查 Gmail 既有线程。** 若已联系过同一位导师或项目团队，优先发送有新信息的 follow-up，不重复发首次套磁。当前证据没有确认任何一位导师已承诺为申请者提供全额资助。
